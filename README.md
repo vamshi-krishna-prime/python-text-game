@@ -20,6 +20,10 @@ The aim of this project is to make a simple version of an old-fashioned text-bas
 + When the game is over, it asks if the player wants to play again.
 
 ## Instructions
++ Use Command line shell like GitBash to run the python program - [install Git-scm](https://git-scm.com/downloads)
++ If you are a beginner, follow the steps in this [link](https://www.atlassian.com/git/tutorials/install-git#windows)
+
+## Game Play
 1. Start with choosing the name of the player - `Enter Player Name`
 2. Choose the desired location  - `Pick a location`
 3. Unravel the story depending on various factors - `Story Triggers`
