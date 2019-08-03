@@ -10,7 +10,7 @@ The live version of the project can be accessed using the below links:
 ## Introduction
 ![Python Text Based Gameplay](https://user-images.githubusercontent.com/49973760/62416420-283d6400-b658-11e9-961b-6074332b7e0d.PNG)
 
-The aim of this project is to make a simple version of an old-fashioned text-based adventure game using Python coding skills leanrt through out the Nanodegree program. The approxiamate time of gameplay is 4-6 hours.
+The aim of this project is to make a simple version of an old-fashioned text-based adventure game using Python coding skills leanrt through out the Nanodegree program. `The approxiamate time of gameplay is 4-6 hours`.
 
 **The Aim of the project is as follows:**
 + The game gives players a description of what's happening, and then asks them to make a choice.
