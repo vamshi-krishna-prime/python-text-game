@@ -3,9 +3,9 @@ This project is part of - `"Intro to the Programming" Nanodegree` at `Udacity` l
 The goal of the project is to construct a `Text based Adventure Game` using `Python language`.
 The live version of the project can be accessed using the below links: 
 
-[Link 1](https://www.vamshi-krishna-p.com/text-based-game)
+[Live Project Link 1](https://www.vamshi-krishna-p.com/text-based-game)
 
-[Link 2](https://vamshi-krishna-prime.github.io/TextGame/)
+[Live Project Link 2](https://vamshi-krishna-prime.github.io/TextGame/)
 
 ## Introduction
 ![Python Text Based Gameplay](https://user-images.githubusercontent.com/49973760/62416420-283d6400-b658-11e9-961b-6074332b7e0d.PNG)
